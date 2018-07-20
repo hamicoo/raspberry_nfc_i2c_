@@ -1,0 +1,4 @@
+Error - 2018-06-19 18:18:28.943093 (Description: Database >fetch_user > Probelm With Connection To postgres)
+Error - 2018-06-19 18:19:23.499686 (Description: Database >fetch_user > Probelm With Connection To postgres)
+Error - 2018-06-19 18:25:27.705450 (Description: Database >fetch_user > Probelm With Connection To postgres)
+Error - 2018-06-19 18:27:15.099317 (Description: Database >fetch_user > Probelm With Connection To postgres)
